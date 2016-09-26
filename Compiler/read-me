@@ -1,0 +1,5 @@
+1. This Project implements the compiler for TL Programming language
+2. To run the project run the class com.utsa.compiler.Compiler
+
+Input - TL-Program
+Output - ParseTree, AST Tree, Intermediate Code, Machine code
